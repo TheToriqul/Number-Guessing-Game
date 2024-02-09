@@ -1,4 +1,4 @@
-## Number Guessing Game**
+## Number Guessing Game
 
 This Python code implements a classic number guessing game where you try to guess a secret number hidden within a user-specified range. The code provides helpful feedback to guide you towards the correct answer, making it an engaging and fun experience.
 
